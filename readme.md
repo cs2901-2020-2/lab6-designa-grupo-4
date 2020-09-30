@@ -13,3 +13,4 @@
 - El sistema guardará unicamente el último dato recibido por los sensores, esto quiere decir que no guardará un historial. ????
 
 # Diagrama de casos de uso
+![][UML.png]
